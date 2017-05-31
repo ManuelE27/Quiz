@@ -8,3 +8,5 @@ Existe una solucion que se propone en el libro
 sección 4.2.2 y se espera que el estudiante realice la solucion.
 
 # Quiz
+# Quiz_So
+# Quiz_So
